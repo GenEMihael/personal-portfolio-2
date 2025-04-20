@@ -129,6 +129,11 @@ a {
   width: auto;
 }
 
+.contact-img {
+  height: 32px;
+  width: auto;
+}
+
 @media only screen and (max-width: 600px) {
   .about-me-container {
     flex-direction: column;
